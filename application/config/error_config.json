@@ -1,0 +1,8 @@
+{
+  "ERROR_LOGIN" : "Неверный логин и/или пароль",
+  "DATA_VALIDATION_ERROR" : "Данные не прошли проверку",
+  "DATA_EMPTY_ERROR" : "Заполните все поля формы",
+  "CATEGORY_CHOOSE_ERROR" : "Выберите категорию",
+  "DATA_ADD_ERROR" : "Данные не добавлены",
+  "DATA_DOWNLOAD_ERROR" : "Ошибка загрузки данных"
+}
